@@ -1,0 +1,33 @@
+name: Python Style Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  python-style:
+    name: Python Style
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install wemake-python-styleguide
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run wemake-python-styleguide on Python files
+        run: |
+          find . -name "*.py" | xargs flake8
