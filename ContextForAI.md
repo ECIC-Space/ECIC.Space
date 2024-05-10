@@ -11,8 +11,8 @@ The ECIC Space is a next generation educational platform driven by AI to bridge 
 
 - ECIC.Space (ECIC-Space/ECIC.Space)
   - Technology Stack:
-    - Backend: Python, Flask
-    - Frontend: HTML, CSS, Vue.js, Element Plus
+    - Backend: Python with Flask framework; Peewee for database interactions; Celery for task queuing.
+    - Frontend: Developed using Vue.js, HTML, and CSS with ElementPlus as the UI library.
     - Front and back end is half-separated, which means HTML will still use the Flask format, but some front-end animations and requests are taken over by Vue.
 
 - ECIC Wiki (ECIC-Space/ECIC_wiki)
