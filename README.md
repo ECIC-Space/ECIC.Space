@@ -27,4 +27,7 @@ This project aims to develop a next-generation platform for teachers and student
 
 ## Words from one of the core members
 
-In ECIC, we believe, if you provide more powerful tools to students and teachers, they can achieve more. At the very beginning, we want to build some kind of blog that can enable students to share their thoughts and sources to other, then we found it is really limited; so we turned to Discord, tring to scale our vision up, then we found it failed to provide something that daily communication platform can; so here we are, building the next-generation of education platform powered by AI. We believe, with the power of AI, students and faculties at ECIC can really do great things. We will continuely iterating on the system, so stay tuned! (Richards Tu, from Grade 11)
+In ECIC, we believe, if you provide more powerful tools to students and teachers, they can achieve more. At the very beginning, we want to build some kind of blog that can enable students to share their thoughts and sources to other, then we found it is really limited; so we turned to Discord, tring to scale our vision up, then we found it failed to provide something that daily communication platform can; so here we are, building the next-generation of education platform powered by AI. We believe, with the power of AI, students and faculties at ECIC can really do great things. We will continuely iterating on the system, so stay tuned!
+<div align="left">
+-- Richards Tu, from Grade 11
+</div>
