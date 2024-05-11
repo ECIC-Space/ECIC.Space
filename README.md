@@ -34,7 +34,7 @@ Perhaps we need a platform to store the common learning materials of students, t
 since march 2023, when gpt-4 was released, i have saw the great potential that AI could bring to us. so i build the prototype of TOEFL Writing Tutor in august. although from today’s perspective, it’s kinda bad, but still quite helpful (help me raise my writing score from 22 to 25). it also helped some of my friends like sam, alan, … in improving their writing skills. and **i hope generally available of this writing tutor can making it easier to improve writing and also leveraging teaching productivity**. what’s more, making the most cutting-edge models available to everyone in ECIC is also what i wish for.
 the whole thing continues to iterate. you will have **more personalized AI tutor**, which has memory about what you write and how you write, in the near future.
 
-*-- Richards Tu, AI Feature developer, Junior Year*
+*-- Richards Tu, LLM Developer, Junior Year*
 
 Unexpectedly, from the very beginning relying on open source project learning materials, we finally embarked on the road of independent development. I have always thought that the existing learning website tools are **not easy to use** ~~(especially Zhixuewang and Menkou)~~, but I hope we can change this... Maybe we can't do it very well, but I hope these attempts can change the form of the existing "education system" - from a combination of multiple independent functions, to **a integrated, truly efficiency-improving modern platform**.  
 
