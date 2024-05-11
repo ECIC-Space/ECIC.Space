@@ -31,7 +31,8 @@ Perhaps we need a platform to store the common learning materials of students, t
 
 *-- YuXiao She, Head of ECIC Learning Department 2024, Official Project Initiator, Senior Year*
 
-In ECIC, we believe, if you provide more powerful tools to students and teachers, they can achieve more. At the very beginning, we want to build some kind of blog that can enable students to share their thoughts and sources to other, then we found it is really limited; so we turned to Discord, tring to scale our vision up, then we found it failed to provide something that daily communication platform can; so here we are, building the next-generation of education platform powered by AI. We believe, with the power of AI, students and faculties at ECIC can really do great things. We will continuely iterating on the system, so stay tuned!
+since march 2023, when gpt-4 was released, i have saw the great potential that AI could bring to us. so i build the prototype of TOEFL Writing Tutor in august. although from today’s perspective, it’s kinda bad, but still quite helpful (help me raise my writing score from 22 to 25). it also helped some of my friends like sam, alan, … in improving their writing skills. and **i hope generally available of this writing tutor can making it easier to improve writing and also leveraging teaching productivity**. what’s more, making the most cutting-edge models available to everyone in ECIC is also what i wish for.
+the whole thing continues to iterate. you will have **more personalized AI tutor**, which has memory about what you write and how you write, in the near future.
 
 *-- Richards Tu, AI Feature developer, Junior Year*
 
