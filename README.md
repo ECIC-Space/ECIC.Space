@@ -25,8 +25,16 @@ This project aims to develop a next-generation platform for teachers and student
 - **Backend**: Python with Flask framework; Peewee for database interactions; Celery for task queuing.
 - **Frontend**: Developed using Vue.js with ElementPlus as the UI library.
 
-## Words from one of the core members
+## Words from core members
+
+Perhaps we need a platform to store the common learning materials of students, to create a study base... In this way, we can **save the time of students and teachers**, and **better spread experience**...  
+
+*-- YuXiao She, Head of ECIC Learning Department 2024, Official Project Initiator, Senior Year*
 
 In ECIC, we believe, if you provide more powerful tools to students and teachers, they can achieve more. At the very beginning, we want to build some kind of blog that can enable students to share their thoughts and sources to other, then we found it is really limited; so we turned to Discord, tring to scale our vision up, then we found it failed to provide something that daily communication platform can; so here we are, building the next-generation of education platform powered by AI. We believe, with the power of AI, students and faculties at ECIC can really do great things. We will continuely iterating on the system, so stay tuned!
 
-*-- Richards Tu, from Grade 11*
+*-- Richards Tu, AI Feature developer, Junior Year*
+
+Unexpectedly, from the very beginning relying on open source project learning materials, we finally embarked on the road of independent development. I have always thought that the existing learning website tools are **not easy to use** ~~(especially Zhixuewang and Menkou)~~, but I hope we can change this... Maybe we can't do it very well, but I hope these attempts can change the form of the existing "education system" - from a combination of multiple independent functions, to **a integrated, truly efficiency-improving modern platform**.  
+
+*-- Yao Xiao, Main Developer, Junior Year*
