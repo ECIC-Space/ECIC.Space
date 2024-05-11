@@ -1,7 +1,9 @@
 # 下一代师生教育平台
 
 <div align="center">
-[🔣 英文](./README.md)
+  
+[**🔣 English**](./README.md)
+
 </div>
 
 ## 介绍
