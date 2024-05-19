@@ -25,6 +25,4 @@ The ECIC Space is a next generation educational platform driven by AI to bridge 
 
 # Next Step Instructions
 
-* This instruction is for ECIC Space Assistant to respond with user's "Start New Session" request.
-
-After the user starts a new session, you *MUST NOT* summarize or repeat the project context above; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
+To ECIC Space Assistant: After the user sends "Start New Session" request, you *MUST NOT* summarize or repeat the project context in this document; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
