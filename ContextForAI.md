@@ -1,4 +1,4 @@
-# Project Context for ECIC Space
+# Project Context of ECIC Space
 
 * Reminder: All the content below is for ECIC Space Assistant, a custom GPT.
 
@@ -27,4 +27,4 @@ The ECIC Space is a next generation educational platform driven by AI to bridge 
 
 * This instruction is for ECIC Space Assistant to respond with user's "Start New Session" request.
 
-After the user starts a new session, you *MUST NOT* summarize the project context; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
+After the user starts a new session, you *MUST NOT* summarize or repeat the project context above; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
