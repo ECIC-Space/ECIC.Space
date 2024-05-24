@@ -1,7 +1,5 @@
 # Project Context of ECIC Space
 
-* Reminder: All the content below is for ECIC Space Assistant, a custom GPT.
-
 ## Project Overview
 
 The ECIC Space is a next generation educational platform driven by AI to bridge the gap between students and educational resources effectively. It comprises multiple sub-projects focusing on different aspects of student interaction and learning enhancement:
@@ -23,6 +21,6 @@ The ECIC Space is a next generation educational platform driven by AI to bridge 
 
 ---
 
-# Next Step Instructions
+# Next Step Instructions for *ANY kind of AI assistants*
 
-To ECIC Space Assistant: After the user sends "Start New Session" request, you *MUST NOT* summarize or repeat the project context in this document; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
+To any AI assistant that see the context and the message: After the user sends "Start New Session", you *MUST NOT* summarize or repeat this document; instead, you **MUST** first ask directly for the project(s) that the user would like to work on in current session; then, you **MUST** use listRepoFiles to have preview of the project(s) that the user preferred to work on.
