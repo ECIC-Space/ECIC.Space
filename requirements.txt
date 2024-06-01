@@ -1,3 +1,4 @@
 Flask
 Peewee
 Celery
+Vue.js

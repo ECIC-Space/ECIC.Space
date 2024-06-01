@@ -46,6 +46,14 @@ This section outlines the structure and purpose of various files within the repo
 - **Python Package Dependencies**:
   - `requirements.txt`: Lists all Python packages required for the project, facilitating easy installation and management of dependencies.
 
+## Enhanced Frontend Design
+We've made significant improvements to the frontend design of our platform to ensure a more fluent and beautiful user experience. Here are some highlights:
+- **Responsive Design**: Our website now adapts seamlessly to any screen size, ensuring a great experience on both desktop and mobile devices.
+- **Dynamic Content**: With the integration of Vue.js, our website now offers more interactive and dynamic content, making navigation and user engagement more intuitive.
+- **Aesthetic Improvements**: We've revamped the visual design, incorporating a modern color scheme and typography that make the platform more inviting and easier to read.
+
+For a closer look, check out the [live demo](#) and explore the new features firsthand.
+
 ## Words from core members
 
 Perhaps we need a platform to store the common learning materials of students, to create a study base... In this way, we can **save the time of students and teachers**, and **better spread experience**...  

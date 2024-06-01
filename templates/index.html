@@ -2,9 +2,34 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>ECIC Space</title>
+    <!-- Vue.js CDN for dynamic content rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
 </head>
 <body>
-
+    <header>
+        <h1>Welcome to ECIC Space</h1>
+    </header>
+    <main id="app">
+        <!-- Vue component for dynamic content -->
+        <div v-for="item in items" class="content-item">
+            <h2>{{ item.title }}</h2>
+            <p>{{ item.description }}</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 ECIC Space. All rights reserved.</p>
+    </footer>
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                items: [
+                    { title: 'Dynamic Content 1', description: 'This is a description for dynamic content 1.' },
+                    { title: 'Dynamic Content 2', description: 'This is a description for dynamic content 2.' }
+                ]
+            }
+        });
+    </script>
 </body>
 </html>
