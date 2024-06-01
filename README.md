@@ -25,6 +25,27 @@ This project aims to develop a next-generation platform for teachers and student
 - **Backend**: Python with Flask framework; Peewee for database interactions; Celery for task queuing.
 - **Frontend**: Developed using Vue.js with ElementPlus as the UI library.
 
+## Repository Structure
+This section outlines the structure and purpose of various files within the repository to provide a clearer understanding of the project's architecture.
+
+- **GitHub Actions Workflows**:
+  - `.github/workflows/BasicPyStyle.yml`: This workflow is responsible for checking the code style of Python files upon push and pull requests to the main branch.
+  - `.github/workflows/PythonStyleCheck.yml`: This workflow performs a comprehensive style check on Python files using wemake-python-styleguide, ensuring adherence to best practices.
+
+- **Backend Application**:
+  - `api/user.py`: Defines the user model and handles user-related operations such as authentication and data management.
+  - `app.py`: The main Flask application file that configures and runs the web server.
+
+- **CSS Stylesheets**:
+  - `static/css/style.css`: The primary CSS stylesheet for the web application, defining the look and feel of the platform.
+  - `static/css/test.css`: An additional CSS file used for testing and experimental styles.
+
+- **HTML Template**:
+  - `templates/index.html`: The main HTML template for the web application, serving as the entry point for the user interface.
+
+- **Python Package Dependencies**:
+  - `requirements.txt`: Lists all Python packages required for the project, facilitating easy installation and management of dependencies.
+
 ## Words from core members
 
 Perhaps we need a platform to store the common learning materials of students, to create a study base... In this way, we can **save the time of students and teachers**, and **better spread experience**...  
