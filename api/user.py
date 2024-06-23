@@ -1,9 +1,9 @@
-"""这是user模块，用于处理用户相关的操作."""
+"""user模块，用于处理用户相关的操作"""
 
 from peewee import *
 from werkzeug.security import generate_password_hash, check_password_hash
 
-# 连接到 MySQL 数据库
+# MySQL 数据库连接设置
 db = MySQLDatabase('your_database_name', user='your_username', password='your_password', host='localhost', port=3306)
 
 
