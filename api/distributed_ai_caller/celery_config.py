@@ -119,7 +119,12 @@ if __name__ == '__main__':
     # 当直接运行此脚本时，使用单进程模式和调试日志级别
     argv = [
         'worker',
-        '--loglevel=DEBUG',
+        '--loglevel=info',
         '-P', 'solo',
     ]
+    # argv = [
+    #     'worker',
+    #     '--loglevel=DEBUG',
+    #     '-P', 'solo',
+    # ]
     app.worker_main(argv)

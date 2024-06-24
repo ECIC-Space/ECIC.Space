@@ -58,7 +58,15 @@ def main():
             "你是一个专业的科技评论家。",
             "请评论一下大型语言模型对社会的潜在影响。"
         )
+        task_id2 = call_ai_api(
+            "claude-3-haiku-20240307",
+            "你是一个专业的建政乐子人。",
+            "请评论一下大型语言模型对社会的潜在影响。"
+        )
         result = get_result(task_id)
+        print(result)
+        print("------------------------")
+        result = get_result(task_id2)
         print(result)
 
     except Exception as e:
